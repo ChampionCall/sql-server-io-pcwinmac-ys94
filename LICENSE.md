@@ -1,4 +1,4 @@
-# 
+# Premium SQL Server Management Studio extensões para Mac OS | Nativo SQL Server Management Studio extensões para PC Windows. Com configuração de rede e editor de consultas — otimizado para máximo desempenho em cada plataforma.
 
 
 
